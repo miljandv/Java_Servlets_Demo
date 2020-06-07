@@ -1,0 +1,5 @@
+servlets\DB.class
+servlets\FServlet.class
+servlets\StorageServlet.class
+com\mycompany\testproject\resources\JavaEE8Resource.class
+com\mycompany\testproject\JAXRSConfiguration.class
